@@ -1,0 +1,15 @@
+{
+  "name": "dianamic-resume",
+  "version": "1.0.0",
+  "description": "This is a Dianamic Resume Builder",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasnain Abass",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^11.0.1"
+  }
+}
